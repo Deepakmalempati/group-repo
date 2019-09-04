@@ -7,5 +7,6 @@
 3. Chaitanya Popuri
 
 ## Github profile links
-[Deepak's profile](https://github.com/Deepakmalempati)
-[Prasanna's profile](https://github.com/prasu93)
+-[Deepak's profile](https://github.com/Deepakmalempati)<br>
+-[Prasanna's profile](https://github.com/prasu93)<br>
+-[Chaitanya's Profile](https://github.com/chaitanyapopuri)
