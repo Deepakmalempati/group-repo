@@ -16,3 +16,6 @@
  - Listening music
  - Watching Action Movies
  - Playing Badminton, Cricket, Soccer.
+2. Prasanna's hobbies:
+ - Editing pictures
+ - Listening music
