@@ -12,7 +12,7 @@
 - [Chaitanya's Profile](https://github.com/chaitanyapopuri)<br>
 
 ## Hobbies
-1. Chaitanya hobbies:
+1. Chaitanya's hobbies:
  - Listening music
  - Watching Action Movies
  - Playing Badminton, Cricket, Soccer.
