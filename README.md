@@ -16,9 +16,9 @@
  - Listening music
  - Watching Action Movies
  - Playing Badminton, Cricket, Soccer.
-1. Prasanna's hobbies:
+2. Prasanna's hobbies:
  - Editing pictures
  - Listening music
-1. Deepak's hobbies
+3. Deepak's hobbies
 - travelling
 - watching movies
